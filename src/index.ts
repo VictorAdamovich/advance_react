@@ -1,4 +1,4 @@
 
 import { someFn } from "./test";
 
-someFn();
+someFn(123);
